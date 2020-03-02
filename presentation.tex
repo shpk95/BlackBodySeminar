@@ -1,27 +1,40 @@
 \documentclass[aspectratio=169]{beamer}
 \usepackage{hyperref}
 \usepackage{graphicx}
+\usepackage{amsmath}
+
+\usepackage[latin1]{inputenc}
+\usepackage{multicol}
+
+\newcommand{\highlight}[1]{\textbf{#1}}
+
 \usetheme[progressbar=frametitle, numbering=none]{metropolis}
 \setbeamercolor{background canvas}{bg=white}
 \title{Spectrum of Blackbody}
-\institute{Yuvaraja's College, Mysuru}
+\institute{{\footnotesize Guided by V.H. Belvadi} \\ Yuvaraja's College, Mysuru}
 \author{Sudheendra B.R. \\ Suhas P.K. \\ Shahsank K.K.}
 \date{}
 
 \begin{document}
 
 \begin{frame}[noframenumbering]
-\titlepage
+	\titlepage
 \end{frame}
 
 \begin{frame}[noframenumbering]{Overview}
-\tableofcontents
+	\begin{multicols}{2}
+		\tableofcontents[sections={1}]
+
+		\columnbreak
+
+		\tableofcontents[sections={2-3}]
+	\end{multicols}
 \end{frame}
 
 \metroset{numbering = counter}
 \section{Part 1}
-\subsection{Introduction to the Black Body problem} 
- 
+\subsection{Introduction to the Black Body problem}
+
 \subsection{Charged oscillators}
  
 \subsection{Rayleigh intensity function}
