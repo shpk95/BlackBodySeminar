@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Part 1}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction to the Black Body problem}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Charged oscillators}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Rayleigh intensity function}{4}{0}{1}
+\beamer@subsectionintoc {1}{4}{The Ultra-Violet catastropy}{4}{0}{1}
+\beamer@subsectionintoc {1}{5}{Plank's emphirical formula}{4}{0}{1}
+\beamer@sectionintoc {2}{Part 2}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Intensity of a Black Body spectrum and the problem}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{Einstein's work on Black Bodies}{5}{0}{2}
+\beamer@sectionintoc {3}{Part 3}{5}{0}{3}
